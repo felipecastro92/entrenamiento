@@ -9,24 +9,30 @@ FRUTAS:
 - Papaya
 - Sandia
 - Fresas
+- Lulos
+- Arándanos
+- Uchuvas
+- Kiwis
 
 VERDURAS:
 
 - Tomates
 - Cebollas
+- Cebolla larga
 - Lechuga
 - Cilantro
 - Aceitunas
+- Perejil
 
 CARNES:
 
 - Pollo
 - Lomo Res
+- Salmón
 
 MECATO:
 
 - Chocolatinas
-- Chocoramos
 - Papitas de limón
 
 BEBIDAS:
