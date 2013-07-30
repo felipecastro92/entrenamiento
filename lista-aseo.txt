@@ -1,5 +1,7 @@
 LISTA ASEO
 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
 -Pasta dental
 -Jabón
 -Fab
