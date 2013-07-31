@@ -16,6 +16,7 @@ FRUTAS:
 - Uchuvas
 - Kiwis
 
+
 VERDURAS:
 
 - Tomates
@@ -26,17 +27,21 @@ VERDURAS:
 - Aceitunas
 - Perejil
 
+
 CARNES:
 
 - Pollo
 - Lomo Res
 - Salmón
 
+
 MECATO:
 
 - Chocolatinas
 - Papitas de limón
 
+
 BEBIDAS:
 
 - Coca-cola
+- Agua
