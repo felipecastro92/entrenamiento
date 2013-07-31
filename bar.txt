@@ -1,9 +1,7 @@
-entrenamiento
-=============
+Bar bar bar! Oh yeah!
 
-Este es un repositorio con el fin de aprender Git.
 
-Testing some stuff here.
+The Bar file is here!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
