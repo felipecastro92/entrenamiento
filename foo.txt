@@ -1,4 +1,5 @@
-FOOOOOOO file baby!
+FOOOOOOO file
+-------------
 Foo foo foo.
 
 This is my new SUPER MEGA GREAT subtitle.
